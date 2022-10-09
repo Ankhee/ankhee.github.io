@@ -1,15 +1,15 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Igor Sapijaszko
+description: Personal website
+author: "Igor Sapijaszko"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
+#base_url: /gh-pages-minima-starter
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+#twitter_username: 
+github_username: ankhee
+linkedin_username: igor-sapijaszko
 rss: rss
 
 # Minima: show excerpts in the frontpage
